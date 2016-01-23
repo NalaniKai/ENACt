@@ -29,6 +29,15 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 
+a {
+    display: right;
+}
+
+#signin {
+    display: right;
+    float: right;
+}
+
 #logo {
     width: 25%;
 }
@@ -39,4 +48,20 @@ li a:hover:not(.active) {
 
 h1 {
     font-color:7ad17a;
+}
+
+body {
+   position: relative;
+}
+body:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("border.svg"); 
+    width: 100%;
+    height: 100%;
+    opacity : 0.1;
+    z-index: -1;
 }
