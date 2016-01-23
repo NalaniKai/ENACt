@@ -28,3 +28,52 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+h1 {
+    float: left;
+}
+
+form {
+    margin-top: 2%;
+    margin-bottom: 15%;
+    float: right;
+}
+
+#description {
+    float: right;
+    width: 60%;
+    margin-left: 0.0;
+    margin-top: 0.0;
+    padding-right: 4%;
+}
+
+#pic {
+    float: left;
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 0.0;
+}
+
+img {
+    width: 80%;
+}
+
+b {
+    color: #007999;
+}
+
+#block1 {
+    margin-top: 8%;
+}
+
+#block2 {
+    margin-top: 20%;
+}
+
+h1 {
+    margin-left: 2%;
+}
+
+h3 {
+    margin-left: 2%;
+}
