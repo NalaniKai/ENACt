@@ -28,3 +28,13 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+form {
+    margin-top: 2%;
+    margin-bottom: 15%;
+    float: right;
+}
+
+h1 {
+    color: #7ad17a;
+}
