@@ -53,8 +53,7 @@ form {
 }
 
 #description {
-    float: right;
-    width: 60%;
+    width: 80%;
     margin-left: 0.0;
     margin-top: 0.0;
     padding-right: 4%;
@@ -89,6 +88,21 @@ h1 {
 
 h3 {
     margin-left: 2%;
+}
+
+.linkedin {
+    width:6%;
+    float:left;
+    margin-right: 15px;
+}
+.twitter {
+    width:6%;
+    float:left;
+    margin-right: 15px;
+}
+.facebook {
+    width:6%;
+    float:left;
 }
 
 body {
