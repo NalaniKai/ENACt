@@ -50,6 +50,17 @@ h1 {
     font-color:7ad17a;
 }
 
+#pic {
+    width: 40%;
+    float: right;
+    padding-right: 15%;
+    padding-top: 3%;
+}
+
+#main {
+    float: left;
+}
+
 body {
    position: relative;
 }

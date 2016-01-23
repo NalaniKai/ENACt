@@ -52,6 +52,24 @@ h1 {
     color: #7ad17a;
 }
 
+#lightbulbs {
+    margin-left:8%;
+    width:20%;
+    margin-right: 10%;
+}
+#electricity_bill {
+    display:inline;
+    width:20%;
+    margin-right: 10%;
+}
+#trees {
+    display:inline;
+    width:20%;
+}
+#margin_top {
+    margin-top: 4%;
+}
+
 body {
    position: relative;
 }
