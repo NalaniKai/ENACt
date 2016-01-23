@@ -28,9 +28,15 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+#logo {
+    width: 25%;
+}
+
 #needideas {
     font-size: 14px;
 }
+
 h1 {
     font-color:7ad17a;
 }

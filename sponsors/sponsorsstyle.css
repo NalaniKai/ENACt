@@ -28,3 +28,23 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+b {
+    color: #007999;
+}
+
+#logo {
+    width: 25%;
+}
+
+h1 {
+    color: #7ad17a;
+}
+
+h3 {
+    color: #007999
+}
+
+p {
+    margin-left: 4%;
+}
