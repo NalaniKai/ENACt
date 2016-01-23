@@ -42,9 +42,27 @@ h1 {
 }
 
 h3 {
-    color: #007999
+    color: #007999;
+    margin-left: 2%;
 }
 
 p {
     margin-left: 4%;
+}
+
+div {
+    width: 30%;
+    margin-left: 4%;
+}
+
+#EL {
+    width: 90%;
+}
+
+#LRS {
+    width: 90%;
+}
+
+#wilton {
+    width: 90%;
 }
